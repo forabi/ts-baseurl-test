@@ -1,0 +1,17 @@
+{
+  "name": "ts-basedir-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.4.1"
+  },
+  "dependencies": {
+    "@types/react": "^15.0.34",
+    "@types/react-dom": "^15.5.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.1"
+  }
+}
