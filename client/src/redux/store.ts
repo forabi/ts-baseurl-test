@@ -1,4 +1,4 @@
-import { createStore, Action } from 'redux';
+import { createStore, Action } from 'redux'; // won't work, 'redux' resolves to 'client/src/redux'
 
 type State = {
   state1: string;
