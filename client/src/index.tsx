@@ -1,2 +1,2 @@
-import { Form } from 'components/Form';
+import { Form } from 'client/src/components/Form';
 
